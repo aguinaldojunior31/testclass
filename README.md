@@ -57,42 +57,6 @@ banana: nome="Banana", cor="Amarela", preco=1.80
 opcao: 5
 
 
-
-
-
-Claro, vamos abordar cada ponto do seu pedido de forma detalhada.
-
-1. Coleta de Figuras com Múltiplos Objetos da Mesma Classe
-
-Aqui estão 10 exemplos de figuras com dois ou mais objetos da mesma classe, juntamente com os links do GitHub para as imagens:
-
-Maçãs:
-Imagem de múltiplas maçãs
-Bananas:
-Imagem de múltiplas bananas
-Cadeiras:
-Imagem de múltiplas cadeiras
-Carros:
-Imagem de múltiplos carros
-Livros:
-Imagem de múltiplos livros
-Xícaras:
-Imagem de múltiplas xícaras
-Lâmpadas:
-Imagem de múltiplas lâmpadas
-Árvores:
-Imagem de múltiplas árvores
-Bolas:
-Imagem de múltiplas bolas
-Telefones:
-Imagem de múltiplos telefones
-Observações:
-
-Substitua "SEU_USUARIO" pelo seu nome de usuário do GitHub.
-Você precisará criar um repositório no GitHub chamado "imagens" e fazer o upload dessas imagens para ele.
-2. Modelagem UML das Classes (Usando Lucidchart)
-
-
 Classe Fruta:
 
 Atributos:
